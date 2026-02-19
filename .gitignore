@@ -1,0 +1,16 @@
+# pyhton
+.venv/
+__pycache__/
+*.pyc
+
+# secrets
+.env
+
+#node
+node_modules/
+dist/
+# data & logs
+data/raw/
+data/runs/
+data/signals/
+logs/
